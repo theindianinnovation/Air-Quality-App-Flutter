@@ -1,4 +1,4 @@
-# air_pollution
+## Air Quality App
 
 A new Flutter application.
 
